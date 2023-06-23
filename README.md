@@ -11,8 +11,8 @@
 
 ## Feito por:
 
-### Joana Santos
+### Matheus Moura Fernandes 
 
-### Linkedin: https://www.linkedin.com/school/aluracursos/
+### Linkedin: https://www.linkedin.com/in/matheus-fernandes-b4bb8516b/
 
 ```
